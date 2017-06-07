@@ -1,0 +1,17 @@
+{
+    "name": "Masha Project",
+    "require": {
+        "smarty/smarty": "^3.1",
+        "jasongrimes/paginator": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "Mariia Kovdrysh",
+            "email": "mary.kovdrish@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Masha\\": "src/"}
+    }
+}
